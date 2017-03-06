@@ -1,4 +1,4 @@
-var algarismsMap = {
+const algarismsMap = {
     1 : {
         1 : 'I',
         4 : 'IV',
