@@ -1,0 +1,22 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "Transform decimal numbers to their respective roman numeral representation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCMais/roman-numerals.git"
+  },
+  "keywords": [
+    "roman-numerals"
+  ],
+  "author": "Jonathan Cardoso Machado <me@jonathancardoso.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/JCMais/roman-numerals/issues"
+  },
+  "homepage": "https://github.com/JCMais/roman-numerals#readme"
+}
