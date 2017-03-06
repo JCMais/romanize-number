@@ -95,5 +95,3 @@ const romanizeNumber = module.exports = function( n ) {
     
     return romanizedNumber
 }
-
-console.log( romanizeNumber( 123456 ) )
