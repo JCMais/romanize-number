@@ -1,6 +1,6 @@
-# roman-numerals
+# romanize-number
 
-``npm install roman-numerals``
+``npm install romanize-number``
 
 ## What is this module for?
 
@@ -10,7 +10,7 @@ It transforms any* decimal numbers, ``123456``, to their respective roman numera
 
 ## Usage
 ```javascript
-    import romanizeNumber from 'roman-numerals'
+    import romanizeNumber from 'romanize-number'
     
     console.log( romanizeNumber( 123456 ) )
 ```

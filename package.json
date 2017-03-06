@@ -1,5 +1,5 @@
 {
-  "name": "roman-numerals",
+  "name": "romanize-number",
   "version": "1.0.0",
   "description": "Transform decimal numbers to their respective roman numeral representation.",
   "main": "main.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JCMais/roman-numerals.git"
+    "url": "git+https://github.com/JCMais/romanize-number.git"
   },
   "keywords": [
-    "roman-numerals"
+    "roman-numerals", "romanize-number", "roman", "number"
   ],
   "author": "Jonathan Cardoso Machado <me@jonathancardoso.com>",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/JCMais/roman-numerals/issues"
+    "url": "https://github.com/JCMais/romanize-number/issues"
   },
-  "homepage": "https://github.com/JCMais/roman-numerals#readme"
+  "homepage": "https://github.com/JCMais/romanize-number#readme"
 }
